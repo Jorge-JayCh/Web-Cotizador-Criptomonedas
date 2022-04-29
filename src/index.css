@@ -1,7 +1,19 @@
-body {
-  background-color: #0d2235;
-  /* background-color: black; */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./fondo.jpg);
+  background-position: center;
+  background-attachment: contain;
+  background-size: cover;
+  min-height: 100vh;
+}
+
 .error {
   background-color: #b7322c;
   padding: 1rem;

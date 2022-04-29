@@ -7,7 +7,7 @@ const Label = styled.label`
     text-transform: uppercase;
     font-weight: bold;
     font-size: 2.4rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     display: block;
 `;
 
